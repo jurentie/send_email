@@ -1,0 +1,4 @@
+This is the sample message body that will be sent in the email.
+
+sincerely,
+justin
