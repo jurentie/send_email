@@ -40,7 +40,7 @@ Arguments:
 
 example:
 
-`py send_email.py "no-reply@email.com" "This is the subject" contacts.txt message.txt "%basepath%\attachment.xlsx"`
+`py send_email.py "no-reply@email.com" "This is the subject" contacts.txt message.txt "attachment.txt"`
 
 
 
